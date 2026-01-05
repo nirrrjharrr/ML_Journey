@@ -1,8 +1,11 @@
 # Jupyter
 .ipynb_checkpoints/
+.jupyter/
 
 # Anaconda
 anaconda-project.yml
+anaconda_projects/
+*.db
 
 # Data
 data/
@@ -14,7 +17,11 @@ datasets/
 __pycache__/
 *.pyc
 
+# Environment
+.env
+.env.*
+
 # OS
 .DS_Store
 Thumbs.db
- 
+
