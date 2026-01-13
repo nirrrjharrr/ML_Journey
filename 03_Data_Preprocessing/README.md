@@ -1,3 +1,3 @@
-# Preprocessing
+# Data Preprocessing
 
-This folder covers essential data preprocessing steps required before model training, such as scaling, encoding, handling missing values, outlier treatment, transformers, and pipeline construction.
+This folder covers essential techniques for cleaning, transforming, and preparing raw data for machine learning models.

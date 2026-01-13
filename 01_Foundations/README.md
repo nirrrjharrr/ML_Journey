@@ -1,3 +1,3 @@
-# Foundations
+# Foundation
 
-This folder contains foundational notebooks covering the basics required for Machine Learning, including an overview of ML concepts and essential Python libraries used throughout the repository.
+This folder introduces fundamental Machine Learning concepts along with NumPy and Pandas for numerical computation and data manipulation.
